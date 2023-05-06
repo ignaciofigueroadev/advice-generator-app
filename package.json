@@ -1,0 +1,22 @@
+{
+  "name": "advice-generator-app-main",
+  "version": "1.0.0",
+  "description": "This is my solution of this challenge",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i global.css -o build/tailwind.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignaciofigueroadev/advice-generator-app.git"
+  },
+  "author": "Ignacio Figueroa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignaciofigueroadev/advice-generator-app/issues"
+  },
+  "homepage": "https://github.com/ignaciofigueroadev/advice-generator-app#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
